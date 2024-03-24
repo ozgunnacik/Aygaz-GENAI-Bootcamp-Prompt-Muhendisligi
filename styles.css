@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0ebeb; /* Toz pembe */
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+  .logo {
+    max-width: 200px;
+    margin-right: 40px;
+}
+  
+  .city {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .city img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .city h2 {
+    margin-top: 10px;
+    color: #000; /* Siyah */
+  }
+  
+  @media (min-width: 768px) {
+    .city {
+      display: inline-block;
+      width: 30%;
+      margin: 20px 1.5%;
+      vertical-align: top;
+    }
+  }
+  

@@ -1,0 +1,33 @@
+Web Site Kodları
+prompt 1:
+Bana web site oluşturmanı istiyorum. Sitede 3 tane hayali şehir olacak.Şehirlerin fotoğrafları altında adı olacak ve logo da eklemek istiyorum.
+prompt 2:
+Html,css ve javascript kullanmak istiyorum. Hepsinin kodlarını ayrı ver açıklama satırı koyma ve mobile uyarlı yapmak istiyorum.
+prompt 3:
+Arka plan rengi toz pembe ve beyaz olsun.yazı tipi normal olsun şehirler yan yana olsun sayfa düzeninde.
+
+Metin promptları:
+prompt 1:
+Aurora isminde doğa manzaralı bir şehir tanıtmanı istiyorum.
+prompt 2:  
+Aurora şehrinin doğası,kültürel mirası,modern yaşamı ve gece hayatı nasıldır?
+prompt 3:
+Yıldıztaşı Kasabası adında bir şehir tanıtmanı istiyorum.
+prompt 4:
+Yıldıztaşı Kasabasının doğası,kültürel mirası,modern yaşamı ve gece hayatı nasıldır?
+prompt 5:
+Gökkale adındaki bir şehri tanıtmak istiyorum.
+prompt 6:
+Gökkale şehrinin doğası,kültürel mirası,modern yaşamı ve gece hayatı nasıldır?
+
+Görsel promptları:
+prompt 1:
+Aurora şehrini göl manzaralı bir şekilde hayal edip görselini çiz
+prompt 2:
+Yıldıztaşı Kasabasını dağ manzaralı şekilde hayal edip görselini çiz
+prompt 3:
+Gökkale şehrini buzullardaymış gibi hayal edip görselini çiz
+
+
+
+
